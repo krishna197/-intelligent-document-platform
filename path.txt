@@ -1,0 +1,8 @@
+
+C:\Users\Srikrishna\AppData\Roaming\uv\python\cpython-3.14.7-windows-x86_64-none\python314.zip
+C:\Users\Srikrishna\AppData\Roaming\uv\python\cpython-3.14.7-windows-x86_64-none\DLLs
+C:\Users\Srikrishna\AppData\Roaming\uv\python\cpython-3.14.7-windows-x86_64-none\Lib
+C:\Users\Srikrishna\AppData\Roaming\uv\python\cpython-3.14.7-windows-x86_64-none
+D:\Claude\free-claude-code\.venv
+D:\Claude\free-claude-code\.venv\Lib\site-packages
+D:\Claude\free-claude-code\src
